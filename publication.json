@@ -1,0 +1,17 @@
+{
+  "record_id": "book-2011-01",
+  "title": "Evolving Transportation Networks",
+  "authors": "Feng Xie; David M. Levinson",
+  "year": 2011,
+  "type": "Book",
+  "venue": "Springer (2011)",
+  "doi": "10.1007/978-1-4419-9804-0",
+  "version": "2011 Springer book PDF; all 17 chapters, mathematical appendix and references present; no claim of byte identity to a current publisher export",
+  "bytes": 8472928,
+  "sha256": "71c1153c09acfba91db8678d15dd7193705788e6941f754ed122a458f992e3fa",
+  "pdfPages": 282,
+  "sourceUrl": "https://ndl.ethernet.edu.et/handle/123456789/12688",
+  "sourcePdfPages": null,
+  "path": "paper/2011-evolving-transportation-networks.pdf",
+  "repository": "dlevinson/book-2011-01-evolving-transportation-networks"
+}
